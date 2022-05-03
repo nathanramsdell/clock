@@ -1,2 +1,2 @@
-# clock
+# Clock
 A simple JavaScript Clock
